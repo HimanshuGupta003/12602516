@@ -1,0 +1,48 @@
+MY DATA, MY STORY - HIMANSHU GUPTA (12602516)
+MCA / D1P2635
+Period: 17 August to 21 September 2026
+Expected days: 36
+Valid days: 34
+Missing days: 2
+Invalid records: 0
+Outside-period records: 13
+
+Sleep: 394.12 min/day
+Fitness: 45.29 min/day
+Study: 148.24 min/day
+Coding: 109.41 min/day
+Class: 170.59 min/day
+Other: 110.00 min/day
+Tracked: 977.65 min/day
+Free: 462.35 min/day
+
+INDICES
+PAI: 317.48 (prescribed weighted index)
+TPI: 109.41 min/day
+AAI: 318.82 min/day
+PhAI: 45.29 min/day
+SRI: 394.12 min/day
+ABI: 462.35 min/day
+TUI: 977.65 min/day
+EI: 3.20 / 5 (template scale)
+DCI: 94.44 %
+
+RELATIONSHIPS (Pearson r)
+Sleep-Energy: 0.473
+Study-Satisfaction: 0.513
+Coding-Energy: 0.518
+
+Missing dates: 17-08-2026, 18-08-2026
+22-09-2026: outside project period
+23-09-2026: outside project period
+24-09-2026: outside project period
+25-09-2026: outside project period
+26-09-2026: outside project period
+27-09-2026: outside project period
+28-09-2026: outside project period
+29-09-2026: outside project period
+30-09-2026: outside project period
+01-10-2026: outside project period
+02-10-2026: outside project period
+03-10-2026: outside project period
+04-10-2026: outside project period
